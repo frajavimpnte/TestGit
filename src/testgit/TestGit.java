@@ -17,6 +17,8 @@ public class TestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Este es un ejmplo de git control de versiones!!");
+        
+        Foo.print();
     }
     
 }
